@@ -1,0 +1,279 @@
+a{
+    text-decoration: none;
+}
+/* slider section */
+.slider-section{
+    background-color: #f9f9ff;
+}
+
+.slider-content {
+    margin-top: 180px;
+}
+.slider-content h6 {
+    font-size: 18px;
+    color: #32383d;
+}
+.slider-content h4 {
+    color: #24292c;
+    font-size: 35px;
+    margin: 12px 0 19px 0;
+}
+.slider-content p{
+    font-size: 17px;
+}
+.sohan a {
+    background: #8490ff;
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: inline-block;
+    transition: .5s;
+}
+.sohan a:hover{
+    background-color: #045c55;
+}
+/* about section */
+
+.banner-content{
+    margin-top: 55px;
+    
+}
+
+.banner-content h6{
+    font-size: 18px;
+}
+.banner-content h4{
+    color: #24292c;
+    font-size: 35px;
+    margin: 12px 0 20px 0;
+}
+.banner-content p{
+    font-size: 17px;
+}
+
+/* count section */
+.count{
+    background: #8490ff;
+    color: #fff;
+    text-align: center;
+}
+
+.count-content h4 {
+    font-size: 35px;
+    font-weight: 700;
+}
+.count-content p{
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+
+/* box section */
+
+.box-item{
+    background: #f9f9ff;
+}
+
+
+.box-content h3 {
+    color: #272b2f;
+    font-size: 33px;
+}
+.box-content p {
+    color: #1f2327d9;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.box-items {
+    background: #fff;
+    border-radius: 6px;
+}
+.box-items:hover a{
+    background: #677de0;
+    color: #fff;
+    border: 1px solid transparent;
+}
+.box-items h2 {
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    margin: auto;
+    background: #f9f9f9;
+    border-radius: 50%;
+}
+.card-button a {
+    background: #fff;
+    color: #677de0;
+    border: 1px solid #677de0;
+    display: inline-block;
+    padding: 7px 14px;
+    border-radius: 5px;
+    font-weight: 500;
+    box-shadow: 1px 1px 14px -4px #677de0;
+    margin-bottom: 22px;
+    transition: .5s;
+}
+.card-button a:hover{
+    background: #08816e;
+}
+.box1 {
+    margin-bottom: 25px;
+}
+.box1 h5 {
+    font-size: 20px;
+    color: #2e3236e6;
+}
+.box1 h6{
+    font-size: 15px;
+    color: #464a4d;
+}
+
+.box2 {
+    padding-bottom: 25px;
+}
+.box2 p {
+    color: #787878;
+    font-size: 19px;
+}
+
+/* team section */
+
+.card-section{
+    position: relative;
+}
+.all-card {
+    margin-top: 72px;
+    border-radius: 6px;
+    width: 23.5%;
+    margin-right: 22px;
+    box-shadow: 1px 4px 17px -8px #000;
+}
+.all-card:last-child{
+    margin-right: 0;
+}
+.member-pic img {
+    width: 100px;
+    border-radius: 2px;
+    position: absolute;
+    top: 55px;
+}
+.team-member {
+    margin: 55px 0 20px 0;
+}
+.team-member h4 {
+    color: #1f2327;
+    margin-bottom: 0px;
+}
+.team-member h6{
+    margin-bottom: 24px;
+}
+
+.team-member a {
+    text-decoration: none;
+    margin-bottom: 22px;
+    display: inline-block;
+    color: #111;
+    background-color: #f8f9fa;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+
+
+/* contact section */
+
+.contact-section{
+    background: #f9f9ff;
+}
+
+.contact-text h5 {
+    font-size: 19px;
+    margin-bottom: 12px;
+}
+
+.form-part{
+    background: #fff;
+    padding: 45px 40px;
+    border-radius: 6px;
+}
+.name{
+    width: 49%;
+    margin-right: 1%;
+}
+.phone {
+    width: 48%;
+    margin-left: 1%;
+}
+.form-part h4{
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.form-part input {
+    border: none;
+    border: 1px solid #ddd;
+    padding: 8px 12px;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.form-part input:focus{
+    border: 1px solid #8490ff;
+    outline: none;
+}
+.sms-box{
+    padding: 12px 12px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ddd;
+}
+.sms-box:focus{
+    border: 1px solid #8490ff;
+    outline: none;
+}
+.form-part a{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 18px;
+    background: #17a2b8;
+    padding: 8px 14px;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: .5s;
+}
+.form-part a:hover{
+    background: #8490ff;
+}
+
+
+
+.contact-right{
+    margin-top: 80px;
+}
+.contact-right h3 {
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.contact-right p {
+    font-weight: 500;
+}
+
+
+/* footer section */
+
+.footer-section{
+    background-color: #04091e;
+}
+.footer-section p{
+    color: #fff;
+    margin-bottom: 0;
+    font-size: 17px;
+    padding: 20px 0;
+}
